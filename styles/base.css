@@ -82,4 +82,10 @@ background: url('../images/background-brick-wall-bricks-brickwork-259915(1).jpg'
 max-height: 40vh;
   width: auto;
   border-radius: 50%;
+  font-size: 2.5ren;
+  width: auto;
+  border-radius: auto;
+  background: #00ff00;
+  color: #ff00ff;
+  border: 5px solid #00ff00; 
 }
