@@ -70,6 +70,8 @@ iframe {
   padding: 1rem;
 }
 
+.banner {
+background: url('../images/background-brick-wall-bricks-brickwork-259915(1).jpg'); 
 .profile-img {
 max-height: 40vh;
   width: auto;
